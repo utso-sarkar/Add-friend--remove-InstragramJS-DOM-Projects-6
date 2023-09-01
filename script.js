@@ -13,6 +13,6 @@ addFriend.addEventListener("click",function(){
 // remove part 
 RemoveFriend.addEventListener("click",function(){
     isAdd.innerHTML="Stranger"
-    isAdd.style.color=red;
+    isAdd.style.color="red";
 })
 
